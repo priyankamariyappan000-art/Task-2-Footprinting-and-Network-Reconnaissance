@@ -1,4 +1,4 @@
-# Cybersecurity Practical – Network Reconnaissance and Network Discovery
+# Cybersecurity Practical – Footprinting, Network Reconnaissance and Network Discovery
 
 ## Introduction
 This project documents my hands-on cybersecurity practical activities using Kali Linux, Windows Command Prompt, and Zenmap.
