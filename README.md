@@ -39,7 +39,7 @@ This project documents my hands-on cybersecurity practical activities using Kali
 
 ## Practical Report
 
-[📄 Click Here to View My Cybersecurity Practical Report](file:///C:/Users/LENOVO/Desktop/My_Network_Topology.png/Priyanka_Mariyappan_W2-PM-FINAL_Report.pdf)
+[📄 View My Complete Cybersecurity Practical Report](file:///C:/Users/LENOVO/Desktop/My_Network_Topology.png/Priyanka_Mariyappan_W2-PM-FINAL_Report.pdf)
 
 ## Learning Outcome
 Through this practical activity, I gained hands-on exposure to basic cybersecurity tools, domain reconnaissance, DNS enumeration, network configuration, and network discovery.
