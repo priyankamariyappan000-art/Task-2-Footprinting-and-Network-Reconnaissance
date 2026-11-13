@@ -33,8 +33,8 @@ This project documents my hands-on cybersecurity practical activities using Kali
 <img width="1600" height="947" alt="kali 4" src="https://github.com/user-attachments/assets/b4ed52cf-c16a-4c7b-8833-b7a357a8f6c3" />
 <img width="1592" height="951" alt="kali 5" src="https://github.com/user-attachments/assets/1a4e50fa-6f51-4a74-8866-5966b1a5b19a" />
 <img width="1600" height="945" alt="Zeenmap Scan Image " src="https://github.com/user-attachments/assets/648ee664-523e-4a5e-82e9-2fc0f13bbf0f" />
-<img width="277" height="444" alt="zeenmap Topoloy 2 " src="https://github.com/user-attachments/assets/5ddcacc7-cb0b-40e0-afb2-d2e06be91f74" />
 <img width="1600" height="939" alt="Zeenmap Topoloy Image " src="https://github.com/user-attachments/assets/0dde2236-0550-45ec-8982-17fad484654c" />
+<img width="277" height="444" alt="zeenmap Topoloy 2 " src="https://github.com/user-attachments/assets/5ddcacc7-cb0b-40e0-afb2-d2e06be91f74" />
 
 
 ## Practical Report
@@ -42,7 +42,6 @@ This project documents my hands-on cybersecurity practical activities using Kali
 For the complete practical documentation, including detailed explanations and screenshots, please refer to the PDF report below.
 
 📄 [View Complete Practical Report](file:///C:/Users/LENOVO/Desktop/My_Network_Topology.png/Priyanka_Mariyappan_W2-PM-FINAL_Report.pdf)
-
 
 
 ## Learning Outcome
