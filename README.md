@@ -39,7 +39,7 @@ This project documents my hands-on cybersecurity practical activities using Kali
 
 ## Practical Report
 
-[📄 View My Complete Cybersecurity Practical Report](https://drive.google.com/drive/u/0/folders/1qbiJNO88KmBi4_K4EDug193GWYfr_31-)
+[📄 View My Complete Cybersecurity Practical Report](https://drive.google.com/file/d/1CnOZOWmDB2MyrPEW-kEN5X71ve_4ytyg/view?usp=sharing)
 
 ## Learning Outcome
 Through this practical activity, I gained hands-on exposure to basic cybersecurity tools, domain reconnaissance, DNS enumeration, network configuration, and network discovery.
